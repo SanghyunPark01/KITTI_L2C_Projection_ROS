@@ -33,7 +33,7 @@ Go to [Link](https://github.com/tomas789/kitti2bag) and make bagfile. You can us
 
 ## 🛠️Test  
 It is easy to test.  
-**First**, move your workspace  
+**First**, move to your workspace  
 ```
 cd (your workspace name ex.catkin_ws)
 cd src
