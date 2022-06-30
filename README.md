@@ -60,7 +60,7 @@ rosbag play -l (your rosbag name)
 ```  
 * Third Terminal, Run Projection node  
 ```
-rosrun l2c_projection l2c_node.py
+rosrun KITTI_L2C_Projection_ROS l2c_node.py
 ```
 
 ## 🛠️Error Reporting  
