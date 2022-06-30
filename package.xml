@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>l2c_projection</name>
+  <name>KITTI_L2C_Projection_ROS</name>
   <version>0.0.0</version>
-  <description>The l2c_projection package</description>
+  <description>The KITTI_L2C_Projection_ROS package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag -->
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="psh@todo.todo">psh</maintainer>
+  <maintainer email="pash0302@naver.com">Sanghyun Park</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
